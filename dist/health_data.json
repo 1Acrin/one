@@ -1,0 +1,57 @@
+{
+    "bmi_records": [],
+    "calorie_intake": {
+        "2025-08-26": [
+            {
+                "food": "午饭",
+                "calories": 400
+            }
+        ]
+    },
+    "bmr_records": [
+        {
+            "date": "2025-08-26",
+            "weight": 73.0,
+            "height": 173.0,
+            "age": 21,
+            "gender": "男",
+            "activity_level": 1,
+            "activity_description": "几乎不运动或久坐不动",
+            "bmr": 1711,
+            "tdee": 2053
+        },
+        {
+            "date": "2025-08-26",
+            "weight": 73.0,
+            "height": 173.0,
+            "age": 21,
+            "gender": "男",
+            "activity_level": 3,
+            "activity_description": "中度活动（每周3-5天）",
+            "bmr": 1711,
+            "tdee": 2652
+        },
+        {
+            "date": "2025-08-26",
+            "weight": 73.0,
+            "height": 173.0,
+            "age": 21,
+            "gender": "男",
+            "activity_level": 2,
+            "activity_description": "轻度活动（每周1-3天）",
+            "bmr": 1711,
+            "tdee": 2353
+        },
+        {
+            "date": "2025-08-26",
+            "weight": 73.0,
+            "height": 173.0,
+            "age": 21,
+            "gender": "男",
+            "activity_level": 1,
+            "activity_description": "几乎不运动或久坐不动",
+            "bmr": 1711,
+            "tdee": 2053
+        }
+    ]
+}
